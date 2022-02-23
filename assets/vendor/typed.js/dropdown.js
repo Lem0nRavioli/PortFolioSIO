@@ -12,7 +12,7 @@ document.addEventListener("DOMContentLoaded", () => {
   
       if (content.style.maxHeight) content.style.maxHeight = null;
       // else content.style.maxHeight = "100%";
-      else content.style.maxHeight = 3000 + "px";
+      else content.style.maxHeight = 30000 + "px";
       // else content.style.maxHeight = content.scrollHeight + "px";
     }
     
